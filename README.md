@@ -18,7 +18,7 @@ The scene is well-lit, suggesting it might be evening or night, as indicated by 
 # Video Explanation
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5e5a9dbf-129c-4770-b5f2-ce1585c4b1df" width="600" title="Input Image">
+  <video src="https://github.com/user-attachments/assets/5e5a9dbf-129c-4770-b5f2-ce1585c4b1df" width="600" title="Input Image">
 </p>
 
 <p align="justify"> 
