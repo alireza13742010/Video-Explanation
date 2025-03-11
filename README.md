@@ -13,5 +13,19 @@ On the table, there are several art supplies:
 - A cup containing a brush and some paint.
 - A set of colored pencils.
 - A small gray cat sitting next to her, seemingly observing her work.
-The scene is well-lit, suggesting it might be evening or night, as indicated by the presence of the desk lamp. The overall atmosphere is one of creativity and focus.. </p>
-""
+The scene is well-lit, suggesting it might be evening or night, as indicated by the presence of the desk lamp. The overall atmosphere is one of creativity and focus. </p>
+
+# video Explanation
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/5e5a9dbf-129c-4770-b5f2-ce1585c4b1df" width="600" title="Input Video">
+</p>
+
+<p align="justify"> The picture depicts a young girl with blonde hair styled in two braids, each adorned with red ribbons. She is sitting at a wooden table, engrossed in drawing or coloring on a piece of paper. The paper features various colorful elements, including a sun, clouds, and leaves.
+On the table, there are several art supplies:
+- A green desk lamp with a flexible neck.
+- A palette with watercolors in different colors.
+- A cup containing a brush and some paint.
+- A set of colored pencils.
+- A small gray cat sitting next to her, seemingly observing her work.
+The scene is well-lit, suggesting it might be evening or night, as indicated by the presence of the desk lamp. The overall atmosphere is one of creativity and focus. </p>
+
