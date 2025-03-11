@@ -17,5 +17,6 @@ The scene is well-lit, suggesting it might be evening or night, as indicated by 
 
 # video Explanation
 <video src='https://github.com/user-attachments/assets/5e5a9dbf-129c-4770-b5f2-ce1585c4b1df' width=180/>
+  
 <p align="justify"> The image shows a view of Earth from space, with the planet appearing as a blue sphere against the blackness of space. The curvature of the Earth is clearly visible, and the lighting suggests it is either early morning or late evening, as the illuminated areas are primarily in the northern hemisphere. The lights on the surface indicate populated areas, with brighter clusters suggesting cities or urban centers. The overall scene captures the beauty and vastness of our planet from an extraterrestrial perspective. </p>
 
